@@ -1,6 +1,7 @@
 
 print("zhouzhigang")
 print("龙兴天下")
-print("hello wold00")
+print("hello wd00")
+print("天下一家")
 
 
